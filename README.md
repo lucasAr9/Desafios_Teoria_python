@@ -1,4 +1,4 @@
-<h1 align="center"> Desafios de la Teoria </h1>
+<h1 align="center"> Desafíos de la Teoría </h1>
 
 
 * Lucas Manuel Arrigoni
