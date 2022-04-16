@@ -1,5 +1,4 @@
-<h1 align="center"> Desafíos de la Teoría </h1>
-
+# Desafíos de la Teoría
 
 * Lucas Manuel Arrigoni
 * Legajo: 19352/0
